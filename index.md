@@ -1,4 +1,4 @@
-* [About me](about_me.pdf)
+* [Resume](resume.pdf)
 * [CS570 HW1](hw1.pdf)
 
 
